@@ -9,6 +9,7 @@ Can be found on telegram as [Marie](https://t.me/BanhammerMarie_bot).
 For questions regarding creating your own bot, please head to [this chat](https://t.me/MarieOT) where you'll find a
 group of volunteers to help. We'll also help when a database schema changes, and some table column needs to be
 modified/added (this info can also be found in the commit messages)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FPaulSonOfLars%2Ftgbot)
 
 
 Join the [news channel](https://t.me/MarieNews) if you just want to stay in the loop about new features or
